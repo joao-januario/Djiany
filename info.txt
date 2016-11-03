@@ -1,0 +1,1 @@
+This is a simple text editor that allows you to open and save files. All code is documented so it can provide as a base for you to build more functionalities.
